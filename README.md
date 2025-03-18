@@ -6,12 +6,14 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
+
 💻 **Software Developer in progress**  
-📚 **Passionate about coding, learning, and building projects** 
+📚 **Passionate about coding, learning, and building projects**  
+🌱 **Currently learning:** HTML & CSS  
 🎯 **Goal:** Become a full-stack developer and master agile methodologies  
-📫 How to reach me: **josejosedavid90@gmail.com**
-⚡ Fun fact: **I like GYM**
+📫 **How to reach me:** josejosedavid90@gmail.com  
+⚡ **Fun fact:** I like GYM 💪  
 
 ---
 
@@ -40,12 +42,11 @@
 ---
 
 
-### 🌟 **Let’s Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josesolano258)  
+### 🌟 **Let’s Connect!** 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/Josesolano258)
 
 ---
 
-⭐ **"Code. Learn. Improve. Repeat."**  
+⭐ "Code with passion, learn with purpose."
 ---
 
