@@ -34,9 +34,9 @@
 
 ---
 
-### 👀 **Profile Views**  
+### 🔥 **Profile Views**  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josesolano258&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=Josesolano258&color=red&style=plastic" />
 </p>
 
 ---
