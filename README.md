@@ -21,7 +21,7 @@
 
 ### 🏅 **Overall Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josesolano258&show_icons=true&theme=dark_red" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josesolano258&show_icons=true&theme=radical" />
 </p>
 
 
