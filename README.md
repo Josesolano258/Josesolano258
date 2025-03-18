@@ -12,7 +12,7 @@ I'm a software developer from Colombia who loves programming and learning new te
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josesolano258&show_icons=true&theme=dark_red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josesolano258&show_icons=true&theme=tokyonight)
 
 
 ## 🔗 Connect with me:
