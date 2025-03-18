@@ -42,8 +42,11 @@
 ---
 
 
-### 🌟 **Let’s Connect!** 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/Josesolano258)
+## 🔗🌟 Connect with me:  
+
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josesolano258)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/josesolano8023)  
+
 
 ---
 
