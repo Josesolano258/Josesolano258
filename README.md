@@ -10,7 +10,7 @@
 
 💻 **Software Developer in progress**  
 📚 **Passionate about coding, learning, and building projects**  
-🌱 **Currently learning:** HTML & CSS  
+🌱 **Currently learning:** JAVASCRIPT
 🎯 **Goal:** Become a full-stack developer and master agile methodologies  
 📫 **How to reach me:** josejosedavid90@gmail.com  
 ⚡ **Fun fact:** I like GYM 💪  
