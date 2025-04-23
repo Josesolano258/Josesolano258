@@ -11,7 +11,6 @@
 - 🌱 **Actualmente aprendiendo:** JavaScript  
 - 🎯 **Meta:** Convertirme en desarrollador full-stack y dominar metodologías ágiles  
 - 📫 **Contáctame:** [josejosedavid90@gmail.com](mailto:josejosedavid90@gmail.com)  
-- ⚡ **Dato curioso:** El gimnasio es mi segundo IDE (Iron Development Environment 💪)
 
 ---
 
