@@ -26,13 +26,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-- ⚽ [Ligabetplay](https://github.com/Josesolano258/ligabetplay) — Football simulation with players, teams, and match scheduling.
-- 👕 [Clothing E-commerce](https://github.com/Josesolano258/ecommerce-ropa) — A responsive HTML/CSS shopping site with cart and checkout pages.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
